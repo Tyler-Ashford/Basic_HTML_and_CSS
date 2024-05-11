@@ -1,0 +1,11 @@
+h1 {
+  text-shadow: 3px 3px greenyellow;
+}
+
+p {
+  color: blue;
+  background-color: brown;
+  font-size: large;
+  text-align: center;
+  text-decoration: wavy;
+}

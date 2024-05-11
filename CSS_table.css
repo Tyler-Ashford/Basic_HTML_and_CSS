@@ -1,0 +1,28 @@
+h1 {
+  border: 1px double black;
+  color: goldenrod;
+}
+
+h1:hover {
+  background-color: aquamarine;
+  color: red;
+}
+
+table {
+  border: 1px solid goldenrod;
+}
+
+td:hover {
+  background-color: yellow;
+  color: black;
+}
+
+tr, th {
+  background-color: black;
+  color: cornsilk;
+}
+
+tr, td {
+  background-color: darkmagenta;
+  color: whitesmoke;
+}
